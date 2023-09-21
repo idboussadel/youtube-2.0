@@ -3,6 +3,7 @@ The YouTube Clone is a responsive web application that replicates some of the co
 
 # Technologies Used :
 * React
+* CSS
 * Material-UI
 * RapidApi (Youtube v3)
 
@@ -29,10 +30,12 @@ npm install
 # Screenshots :
 
 ![markup](https://github.com/Devai-coding/youtube-2.0/assets/113947156/7715ce57-3d74-4279-afba-aaa1c8d773c4)
-
+<br />
 ![3](https://github.com/Devai-coding/youtube-2.0/assets/113947156/adda1be9-d8f9-4f58-a773-bcd921d5d34f)
+<br />
 
 ![4](https://github.com/Devai-coding/youtube-2.0/assets/113947156/b294f6f9-d45e-406e-8a52-d9a7f7e61e3d)
+<br />
 
 # Contributions and Feedback Welcome :
 Feel free to clone this repository and explore the code, report any issues or bugs you encounter, and share your ideas for new features or improvements. 
