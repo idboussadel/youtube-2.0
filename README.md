@@ -5,7 +5,7 @@ The YouTube Clone is a responsive web application that replicates some of the co
 * React
 * CSS
 * Material-UI
-* RapidApi (Youtube v3)
+* RapidApi ([Youtube v3](https://rapidapi.com/ytdlfree/api/youtube-v31)
 
 # Features :
 * Watch a video with video suggestions: Watch a video and get suggestions for other videos to watch, based on the category of the video you are watching.
