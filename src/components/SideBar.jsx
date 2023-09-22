@@ -49,7 +49,7 @@ const SideBar = ({ selectedCategory, setSelectedCategory }) => {
         sx={{ mt: 1.5, color: "#fff", pb: 2, textAlign: "center" }}
       >
         Copyright 2023 <br />
-        A. IDBOUSSADEL
+        A. ID
       </Typography>
     </Stack>
   );
